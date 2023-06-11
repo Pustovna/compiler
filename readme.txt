@@ -1,4 +1,4 @@
-This is two part of a compiler for a C/C++ like language. 
+This is two parts of a compiler for a C/C++ like language. 
 Implemented syntactic and semantic analysis. 
 Language description is available in file Language. 
 
